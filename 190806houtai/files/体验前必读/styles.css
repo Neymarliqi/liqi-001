@@ -385,10 +385,10 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:158px;
-  height:40px;
+  width:131px;
+  height:43px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(248, 156, 70, 1);
   border:none;
   border-radius:5px;
   -moz-box-shadow:none;
@@ -397,25 +397,23 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  color:#1ABC9C;
 }
 #u1197 {
   border-width:0px;
   position:absolute;
-  left:923px;
-  top:108px;
-  width:158px;
-  height:40px;
+  left:125px;
+  top:105px;
+  width:131px;
+  height:43px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  color:#1ABC9C;
 }
 #u1197_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:10px;
-  width:154px;
+  top:12px;
+  width:127px;
   word-wrap:break-word;
 }
