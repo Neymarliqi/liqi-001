@@ -13,7 +13,7 @@
   position:absolute;
   z-index:0;
 }
-#u1721_img {
+#u1422_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -21,7 +21,7 @@
   width:968px;
   height:1338px;
 }
-#u1721 {
+#u1422 {
   border-width:0px;
   position:absolute;
   left:8px;
@@ -29,7 +29,7 @@
   width:968px;
   height:1338px;
 }
-#u1721_text {
+#u1422_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -38,7 +38,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1722_div {
+#u1423_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -53,7 +53,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1722 {
+#u1423 {
   border-width:0px;
   position:absolute;
   left:8px;
@@ -61,7 +61,7 @@
   width:968px;
   height:44px;
 }
-#u1722_text {
+#u1423_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -70,7 +70,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1724 {
+#u1425 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -79,7 +79,7 @@
   height:50px;
   overflow:hidden;
 }
-#u1724_state0 {
+#u1425_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -93,7 +93,7 @@
   background-color:rgba(243, 243, 243, 1);
   background-image:none;
 }
-#u1724_state0_content {
+#u1425_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -101,7 +101,7 @@
   width:1px;
   height:1px;
 }
-#u1725 {
+#u1426 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -110,7 +110,7 @@
   height:1px;
   overflow:hidden;
 }
-#u1725_state0 {
+#u1426_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -124,7 +124,7 @@
   background-color:rgba(228, 228, 228, 1);
   background-image:none;
 }
-#u1725_state0_content {
+#u1426_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -132,7 +132,7 @@
   width:1px;
   height:1px;
 }
-#u1726_div {
+#u1427_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -162,7 +162,7 @@
   color:#999999;
   text-align:left;
 }
-#u1726 {
+#u1427 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -175,7 +175,7 @@
   color:#999999;
   text-align:left;
 }
-#u1726_div.selected {
+#u1427_div.selected {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -205,9 +205,9 @@
   color:#999999;
   text-align:left;
 }
-#u1726.selected {
+#u1427.selected {
 }
-#u1726_text {
+#u1427_text {
   border-width:0px;
   position:absolute;
   left:10px;
