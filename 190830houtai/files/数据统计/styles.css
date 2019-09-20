@@ -13,12 +13,12 @@
   position:absolute;
   z-index:0;
 }
-#u1616 {
+#u1519 {
   position:absolute;
   left:0px;
   top:60px;
 }
-#u1616_state0 {
+#u1519_state0 {
   position:relative;
   left:0px;
   top:0px;
@@ -26,7 +26,7 @@
   height:626px;
   background-image:none;
 }
-#u1616_state0_content {
+#u1519_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -34,7 +34,7 @@
   width:1px;
   height:1px;
 }
-#u1617_img {
+#u1520_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -42,7 +42,7 @@
   width:974px;
   height:677px;
 }
-#u1617 {
+#u1520 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -50,7 +50,7 @@
   width:974px;
   height:677px;
 }
-#u1617_text {
+#u1520_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -59,7 +59,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1619 {
+#u1522 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -68,7 +68,7 @@
   height:50px;
   overflow:hidden;
 }
-#u1619_state0 {
+#u1522_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -82,7 +82,7 @@
   background-color:rgba(243, 243, 243, 1);
   background-image:none;
 }
-#u1619_state0_content {
+#u1522_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -90,7 +90,7 @@
   width:1px;
   height:1px;
 }
-#u1620 {
+#u1523 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -99,7 +99,7 @@
   height:1px;
   overflow:hidden;
 }
-#u1620_state0 {
+#u1523_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -113,7 +113,7 @@
   background-color:rgba(228, 228, 228, 1);
   background-image:none;
 }
-#u1620_state0_content {
+#u1523_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -121,7 +121,7 @@
   width:1px;
   height:1px;
 }
-#u1621_div {
+#u1524_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -151,7 +151,7 @@
   color:#999999;
   text-align:left;
 }
-#u1621 {
+#u1524 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -164,7 +164,7 @@
   color:#999999;
   text-align:left;
 }
-#u1621_div.selected {
+#u1524_div.selected {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -194,9 +194,9 @@
   color:#999999;
   text-align:left;
 }
-#u1621.selected {
+#u1524.selected {
 }
-#u1621_text {
+#u1524_text {
   border-width:0px;
   position:absolute;
   left:10px;

@@ -13,7 +13,7 @@
   position:absolute;
   z-index:0;
 }
-#u1427_img {
+#u1330_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -21,7 +21,7 @@
   width:968px;
   height:1338px;
 }
-#u1427 {
+#u1330 {
   border-width:0px;
   position:absolute;
   left:8px;
@@ -29,7 +29,7 @@
   width:968px;
   height:1338px;
 }
-#u1427_text {
+#u1330_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -38,7 +38,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1428_div {
+#u1331_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -53,7 +53,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1428 {
+#u1331 {
   border-width:0px;
   position:absolute;
   left:8px;
@@ -61,7 +61,7 @@
   width:968px;
   height:44px;
 }
-#u1428_text {
+#u1331_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -70,7 +70,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1430 {
+#u1333 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -79,7 +79,7 @@
   height:50px;
   overflow:hidden;
 }
-#u1430_state0 {
+#u1333_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -93,7 +93,7 @@
   background-color:rgba(243, 243, 243, 1);
   background-image:none;
 }
-#u1430_state0_content {
+#u1333_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -101,7 +101,7 @@
   width:1px;
   height:1px;
 }
-#u1431 {
+#u1334 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -110,7 +110,7 @@
   height:1px;
   overflow:hidden;
 }
-#u1431_state0 {
+#u1334_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -124,7 +124,7 @@
   background-color:rgba(228, 228, 228, 1);
   background-image:none;
 }
-#u1431_state0_content {
+#u1334_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -132,7 +132,7 @@
   width:1px;
   height:1px;
 }
-#u1432_div {
+#u1335_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -162,7 +162,7 @@
   color:#999999;
   text-align:left;
 }
-#u1432 {
+#u1335 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -175,7 +175,7 @@
   color:#999999;
   text-align:left;
 }
-#u1432_div.selected {
+#u1335_div.selected {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -205,9 +205,9 @@
   color:#999999;
   text-align:left;
 }
-#u1432.selected {
+#u1335.selected {
 }
-#u1432_text {
+#u1335_text {
   border-width:0px;
   position:absolute;
   left:10px;
