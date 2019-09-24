@@ -48,6 +48,13 @@
   font-size:12px;
   color:#919191;
 }
+.tag-primary {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#1FD63C;
+}
 .tag-danger {
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -80,6 +87,20 @@
   font-size:14px;
   text-align:left;
 }
+._二级标题-16px {
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
+  font-weight:500;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+._主要字体-12px {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
 .paragraph {
   text-align:left;
 }
@@ -95,6 +116,14 @@
   font-style:normal;
   font-size:12px;
   color:#616161;
+  text-align:left;
+}
+._链接字体-12px {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#20B573;
   text-align:left;
 }
 .shape {
@@ -128,6 +157,9 @@
   font-style:normal;
 }
 .checkbox {
+  text-align:left;
+}
+.radio_button {
   text-align:left;
 }
 ._形状1 {
@@ -441,9 +473,6 @@
 }
 .text_area {
   color:#000000;
-  text-align:left;
-}
-.radio_button {
   text-align:left;
 }
 .image3 {
