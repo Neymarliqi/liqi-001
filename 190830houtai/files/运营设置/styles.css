@@ -13,7 +13,7 @@
   position:absolute;
   z-index:0;
 }
-#u961 {
+#u924 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -22,7 +22,7 @@
   height:50px;
   overflow:hidden;
 }
-#u961_state0 {
+#u924_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -36,7 +36,7 @@
   background-color:rgba(243, 243, 243, 1);
   background-image:none;
 }
-#u961_state0_content {
+#u924_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -44,7 +44,7 @@
   width:1px;
   height:1px;
 }
-#u962 {
+#u925 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -53,7 +53,7 @@
   height:1px;
   overflow:hidden;
 }
-#u962_state0 {
+#u925_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -67,7 +67,7 @@
   background-color:rgba(228, 228, 228, 1);
   background-image:none;
 }
-#u962_state0_content {
+#u925_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -75,7 +75,7 @@
   width:1px;
   height:1px;
 }
-#u963_div {
+#u926_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -105,7 +105,7 @@
   color:#999999;
   text-align:left;
 }
-#u963 {
+#u926 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -118,7 +118,7 @@
   color:#999999;
   text-align:left;
 }
-#u963_div.selected {
+#u926_div.selected {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -148,9 +148,9 @@
   color:#999999;
   text-align:left;
 }
-#u963.selected {
+#u926.selected {
 }
-#u963_text {
+#u926_text {
   border-width:0px;
   position:absolute;
   left:10px;
@@ -158,7 +158,7 @@
   width:176px;
   word-wrap:break-word;
 }
-#u964_img {
+#u927_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -166,7 +166,7 @@
   width:973px;
   height:322px;
 }
-#u964 {
+#u927 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -174,7 +174,39 @@
   width:973px;
   height:322px;
 }
-#u964_text {
+#u927_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u928_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:102px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u928 {
+  border-width:0px;
+  position:absolute;
+  left:326px;
+  top:77px;
+  width:102px;
+  height:29px;
+}
+#u928_text {
   border-width:0px;
   position:absolute;
   left:0px;
