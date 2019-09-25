@@ -1970,17 +1970,7 @@
   width:56px;
   word-wrap:break-word;
 }
-#u65 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:136px;
-  height:50px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u66_div {
+#u65_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1997,7 +1987,7 @@
   font-size:18px;
   color:#FFFFFF;
 }
-#u66 {
+#u65 {
   border-width:0px;
   position:absolute;
   left:4px;
@@ -2007,13 +1997,23 @@
   font-size:18px;
   color:#FFFFFF;
 }
-#u66_text {
+#u65_text {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:116px;
   word-wrap:break-word;
+}
+#u66 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:136px;
+  height:50px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
 #u67 {
   border-width:0px;
